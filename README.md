@@ -63,7 +63,7 @@ Currently Building :
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanannafi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanannafi&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
