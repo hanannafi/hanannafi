@@ -1,27 +1,38 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=250&section=header&text=Muhammad%20Hanan%20Annafi&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Connection+Established...;Accessing+User...;Muhammad+Hanan+Annafi;Android+Developer;Jetpack+Compose+%7C+Firebase;Welcome+to+my+GitHub!" />
+# 👋 Hello, I'm Muhammad Hanan Annafi
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="450">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Android+Developer;Jetpack+Compose+Enthusiast;Firebase+Developer;Kotlin+Learner;Welcome+to+my+GitHub!" />
 
 </div>
 
 ---
 
-# 💻 whoami
+<div align="center">
 
-```bash
-> boot sequence...
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
 
-██████████████████████ 100%
+</div>
 
-Username   : hanannafi
-Name       : Muhammad Hanan Annafi
-Role       : Informatics Student
-Location   : Indonesia
-Learning   : Android Development
-Focus      : Kotlin • Jetpack Compose • Firebase
-Status     : Online 🟢
+# 💻 About Me
+
+```yaml
+Name        : Muhammad Hanan Annafi
+Education   : Informatics Student
+Location    : Indonesia
+
+Role        : Android Developer
+Learning    :
+  - Jetpack Compose
+  - Firebase
+  - Room Database
+  - MVVM Architecture
+  - Clean Architecture
+
+Currently Building :
+  - TaskMate Android App
 ```
 
 ---
@@ -30,7 +41,7 @@ Status     : Online 🟢
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,mysql,python,cpp,git,github,vscode,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,mysql,python,cpp,git,github,vscode,figma&perline=6"/>
 
 </div>
 
@@ -58,46 +69,62 @@ Status     : Online 🟢
 
 ---
 
-# 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hanannafi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanannafi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Current Project
+# 🚀 Featured Project
 
-### 📱 TaskMate
+## 📱 TaskMate
 
-Modern Android Task Management Application
+Modern Android Task Management Application built with **Jetpack Compose** and **Firebase**.
 
 ### Features
 
 - 🔐 Google Authentication
-- 📱 Jetpack Compose
 - 🗄 Room Database
-- 🔥 Firebase
 - ✏ CRUD Task
+- 📅 Task Deadline
+- 🎯 Priority Level
 - 👤 User Profile
-- 📊 Material Design 3
+- 📱 Material Design 3
+- 🔥 Firebase Authentication
+
+Repository :
+
+👉 https://github.com/hanannafi/TaskMate
 
 ---
 
 # 🌱 Currently Learning
 
 - Android Development
-- Clean Architecture
-- MVVM
-- REST API
+- Kotlin
+- Jetpack Compose
 - Firebase
+- REST API
+- Clean Architecture
 - Machine Learning
 
 ---
 
-# 📫 Connect with Me
+# 🎯 Goals 2026
+
+- ✅ Build more Android Apps
+- ✅ Learn Backend Development
+- ✅ Publish Portfolio
+- ✅ Contribute to Open Source
+- ✅ Improve UI/UX Design
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -113,7 +140,7 @@ Modern Android Task Management Application
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hanannafi&label=Visitors&color=00F5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=hanannafi&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -121,15 +148,20 @@ Modern Android Task Management Application
 
 <div align="center">
 
-## ⭐ Thanks for Visiting ⭐
+## 💡 Favorite Quote
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
+> "First, solve the problem. Then, write the code."
 
 </div>
-## 🐍 Contribution Snake
 
-<p align="center">
+---
 
-<img src="https://github.com/hanannafi/hanannafi/blob/output/github-contribution-grid-snake.svg"/>
+<div align="center">
 
-</p>
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:2563EB&height=120&section=footer"/>
