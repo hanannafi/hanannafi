@@ -126,3 +126,10 @@ Modern Android Task Management Application
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/hanannafi/hanannafi/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
