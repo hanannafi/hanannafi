@@ -1,196 +1,229 @@
+<div align="center">
+
+# `> SYSTEM BOOTING...`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZING...+%5D;%3E+Hello%2C+I'm+Muhammad+Hanan+Annafi;%3E+Android+Developer+%7C+Programmer;%3E+Kotlin+%7C+Jetpack+Compose+%7C+Python;%3E+UI%2FUX+%7C+Machine+Learning;%5B+SYSTEM+ONLINE+%5D" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hanannafi&style=for-the-badge&color=00ff41&label=SYSTEM+VISITORS" />
+
+</div>
+
+---
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                         H A N A N N A F I                            │
+│                         DEVELOPER MODE                              │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  USER        : Muhammad Hanan Annafi                                │
+│  ALIAS       : @hanannafi                                            │
+│  ROLE        : Informatics Student / Android Developer              │
+│  LOCATION    : Indonesia                                             │
+│                                                                      │
+│  OS          : Windows / Android                                    │
+│  TERMINAL    : VS Code / Android Studio                             │
+│  LANGUAGE    : Kotlin / Python / Java                               │
+│                                                                      │
+│  CURRENT     : Building Android Applications                         │
+│  STATUS      : ● ONLINE                                              │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
 # `root@hanannafi:~$ whoami`
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  ACCESSING USER PROFILE...                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  > Name        : Muhammad Hanan Annafi                       ║
-║  > Username    : @hanannafi                                  ║
-║  > Education   : Informatics Student                         ║
-║  > Location    : Indonesia                                   ║
-║  > Role        : Android Developer Enthusiast                ║
-║  > Status      : ████████████████████ ONLINE                 ║
-║                                                              ║
-║  > System      : Learning Mode                               ║
-║  > Security    : ██████████████████████████                  ║
-║  > Coffee      : ███████████████░░░░░ 75%                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> **I'm a programmer who enjoys turning ideas into applications.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+Initializing+Hanan+System...;%3E+Android+Developer+Enthusiast;%3E+Kotlin+%7C+Jetpack+Compose+%7C+Firebase;%3E+UI%2FUX+%7C+Machine+Learning;%3E+System+Online...+%E2%96%88" />
-</p>
+I'm currently focused on **Android Development**, especially building modern applications with **Kotlin** and **Jetpack Compose**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hanannafi&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge" />
-</p>
-
----
-
-## `> ./about_me.sh`
+I also explore **UI/UX Design**, **Firebase**, **Room Database**, and **Machine Learning**.
 
 ```bash
-┌──(hanannafi㉿github)-[~/profile]
-└─$ cat about_me.txt
+$ echo "My philosophy"
 
-[+] Android Developer Enthusiast
-[+] Informatics Student
-[+] Kotlin & Jetpack Compose Developer
-[+] UI/UX Design Enthusiast
-[+] Machine Learning Explorer
+BUILD > BREAK > DEBUG > LEARN > BUILD AGAIN
 
-[STATUS]
-● Currently learning
-  ├── Kotlin
-  ├── Jetpack Compose
-  ├── Firebase
-  ├── Room Database
-  ├── Machine Learning
-  └── UI/UX Design
+$ echo "Current mission"
 
-[MISSION]
-> Build.
-> Learn.
-> Experiment.
-> Improve.
+[████████████████████░░] 90%  Android Development
+[██████████████████░░░░] 80%  Kotlin
+[████████████████░░░░░░] 75%  Jetpack Compose
+[██████████████░░░░░░░░] 65%  UI/UX
+[████████████░░░░░░░░░░] 55%  Machine Learning
 ```
 
 ---
 
-## `> ./skills --list`
-
-<p align="center">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=kotlin,python,java,androidstudio" />
-
-### 🧠 Backend & Database
-
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql" />
-
-### 🎨 Design
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-### 🛠 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-
-</p>
-
----
-
-# `> system --status`
+# `root@hanannafi:~$ neofetch`
 
 ```text
-╭──────────────────────────────────────────────────────╮
-│                  SYSTEM STATUS                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  Android Development      [██████████████░░] 85%     │
-│  Kotlin                   [█████████████░░░] 80%     │
-│  Jetpack Compose          [████████████░░░░] 75%     │
-│  UI/UX                    [███████████░░░░░] 70%     │
-│  Firebase                 [██████████░░░░░░] 65%     │
-│  Machine Learning         [████████░░░░░░░░] 55%     │
-│                                                      │
-│  SYSTEM STATUS: ONLINE 🟢                            │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+                 .---.
+                /     \
+                \.@-@./
+                /`-'\ \
+               //  _  \\
+              | \     )|_
+             /`\_`>  <_/ \
+            / _/    _/   /
+           ( (___/ /____/
+            \___  /
+             |_||_|
+             |_||_|
+             |_||_|
+
+     ╭────────────────────────────────────────╮
+     │ USER     : hanannafi                   │
+     │ ROLE     : Developer                   │
+     │ FIELD    : Informatics                 │
+     │ FOCUS    : Android Development         │
+     │ STATUS   : ONLINE                      │
+     │ MODE     : HACKER LIFE                 │
+     ╰────────────────────────────────────────╯
 ```
 
 ---
 
-# `> github --stats`
+# `root@hanannafi:~$ cat skills.txt`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanannafi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanannafi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-</p>
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=kotlin,python,java" />
+
+### `ANDROID`
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,sqlite" />
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+```text
+> Kotlin
+> Python
+> Java
+> Jetpack Compose
+> Firebase
+> Room Database
+> Git & GitHub
+> UI/UX Design
+> Machine Learning
+```
 
 ---
 
-# `> github --streak`
+# `root@hanannafi:~$ top`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hanannafi&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
+### ⚡ CURRENT SYSTEM
+
+```text
+PROCESS                         STATUS
+────────────────────────────────────────────────
+
+Android Development             [███████████████░░░] RUNNING
+Kotlin                          [██████████████░░░░] RUNNING
+Jetpack Compose                 [█████████████░░░░░] RUNNING
+UI/UX Design                    [████████████░░░░░░] RUNNING
+Firebase                        [██████████░░░░░░░░] RUNNING
+Machine Learning                [█████████░░░░░░░░░] LEARNING
+
+CPU  : ███████████████░░░  78%
+RAM  : ████████████░░░░░░  64%
+CODE : ██████████████████  99%
+
+SYSTEM STATUS : 🟢 ONLINE
+```
 
 ---
 
-# `> github --activity`
+# `root@hanannafi:~$ git status`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanannafi&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
-</p>
+```text
+On branch main
+
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+
+  modified:   skills
+  modified:   projects
+  modified:   knowledge
+  modified:   experience
+
+nothing is finished yet.
+
+> Keep coding...
+```
 
 ---
 
-# `> github --trophy`
+# `root@hanannafi:~$ ls ~/projects`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanannafi&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4" />
-</p>
-
----
-
-# `> ls ~/projects`
-
-```bash
-hanannafi@github:~/projects$ tree
-
-.
+```text
+~/projects
+│
 ├── 📱 TaskMate
-│   └── Kotlin + Jetpack Compose + Firebase
+│   ├── Kotlin
+│   ├── Jetpack Compose
+│   └── Firebase
 │
 ├── 🖼 Operasi-Dasar-Sinyal-Citra
-│   └── Python + OpenCV
+│   ├── Python
+│   └── OpenCV
 │
 ├── 🤖 Machine-Learning
-│   └── Autoencoder Image Reconstruction
+│   ├── Python
+│   └── Autoencoder
 │
 └── 📚 Android-Persistence
-    └── Kotlin + Room Database + CRUD
+    ├── Kotlin
+    ├── Room Database
+    └── CRUD
 ```
 
 ---
 
-# `> featured_projects`
+# `root@hanannafi:~$ ./featured-projects`
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 📱 TaskMate
+## 📱 TaskMate
 
 ```text
-STATUS : ACTIVE
-TYPE   : Android Application
-STACK  : Kotlin
-         Jetpack Compose
-         Firebase
+TYPE    : Android App
+STACK   : Kotlin
+          Jetpack Compose
+          Firebase
+
+STATUS  : ACTIVE
 ```
 
-Modern task management application focused on simple and clean user experience.
+Modern task management application with a clean Android interface.
 
 </td>
 
 <td width="50%">
 
-### 🖼 Operasi Dasar Sinyal Citra
+## 🖼 Image Processing
 
 ```text
-STATUS : COMPLETED
-TYPE   : Image Processing
-STACK  : Python
-         OpenCV
+TYPE    : Image Processing
+STACK   : Python
+          OpenCV
+
+STATUS  : COMPLETED
 ```
 
-Project for learning fundamental image processing and signal operations.
+Exploring image manipulation, color conversion, blending, negative transformation, logarithmic transformation, and gamma transformation.
 
 </td>
 
@@ -200,30 +233,33 @@ Project for learning fundamental image processing and signal operations.
 
 <td width="50%">
 
-### 🤖 Machine Learning
+## 🤖 Machine Learning
 
 ```text
-STATUS : LEARNING
-TYPE   : Deep Learning
-MODEL  : Autoencoder
+TYPE    : Deep Learning
+MODEL   : Autoencoder
+STACK   : Python
+
+STATUS  : LEARNING
 ```
 
-Image reconstruction project using an autoencoder architecture.
+Experimenting with image reconstruction using an autoencoder model.
 
 </td>
 
 <td width="50%">
 
-### 📚 Android Persistence
+## 📚 Android Persistence
 
 ```text
-STATUS : COMPLETED
-TYPE   : Android Application
-STACK  : Kotlin
-         Room Database
+TYPE    : Android App
+STACK   : Kotlin
+          Room Database
+
+STATUS  : COMPLETED
 ```
 
-CRUD Android application implementing local data persistence.
+CRUD application demonstrating local data persistence with Room Database.
 
 </td>
 
@@ -232,93 +268,136 @@ CRUD Android application implementing local data persistence.
 
 ---
 
-# `> cat current_mission.txt`
+# `root@hanannafi:~$ github --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hanannafi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanannafi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
+
+</div>
+
+---
+
+# `root@hanannafi:~$ github --streak`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hanannafi&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+
+</div>
+
+---
+
+# `root@hanannafi:~$ github --activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanannafi&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# `root@hanannafi:~$ github --trophy`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hanannafi&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+---
+
+# `root@hanannafi:~$ cat /etc/motd`
 
 ```text
-╭──────────────────────────────────────────────╮
-│              CURRENT MISSION                 │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [✓] Learn Kotlin                            │
-│  [✓] Explore Jetpack Compose                 │
-│  [✓] Build Android Applications              │
-│  [✓] Improve UI/UX Skills                    │
-│  [ ] Master Firebase                         │
-│  [ ] Build Advanced Android Apps             │
-│  [ ] Explore Machine Learning                │
-│  [ ] Create Something Awesome                │
-│                                              │
-│  NEXT OBJECTIVE: KEEP BUILDING 🚀            │
-│                                              │
-╰──────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  WELCOME TO MY TERMINAL                      ║
+║                                                              ║
+║   "Every bug is just another problem waiting to be solved."  ║
+║                                                              ║
+║   CODE        ██████████████████████████                     ║
+║   DEBUG       ████████████████████░░░░                       ║
+║   LEARN       ███████████████████████░                       ║
+║   CREATE      ██████████████████████████                     ║
+║                                                              ║
+║                  KEEP BUILDING. 🚀                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# `> ./connect.sh`
+# `root@hanannafi:~$ ./connect.sh`
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/hanannafi">
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://www.linkedin.com/in/hanan-nafi-53939b37a/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-</p>
+</div>
 
 ```text
-> Connection established.
-> Waiting for incoming signal...
-> █
+[+] GitHub    : CONNECTED
+[+] LinkedIn  : CONNECTED
+[+] Developer : ONLINE
+
+Connection established...
+Waiting for next challenge...
+█
 ```
 
 ---
 
-# `> ./contribution_snake.sh`
+# `root@hanannafi:~$ ./snake.sh`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hanannafi/hanannafi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hanannafi/hanannafi/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
-# `> exit`
+# `root@hanannafi:~$ exit`
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   SYSTEM MESSAGE                                    ║
-║                                                      ║
-║   "The best way to predict the future               ║
-║    is to build it."                                 ║
-║                                                      ║
-║   User session terminated...                        ║
-║                                                      ║
-║   Thanks for visiting my profile. ⭐                ║
-║                                                      ║
-║   > connection closed_                              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   SESSION TERMINATED                                         │
+│                                                              │
+│   User      : hanannafi                                      │
+│   Status    : ONLINE                                         │
+│   Mission   : KEEP CODING                                    │
+│                                                              │
+│   Thanks for visiting my profile. ⭐                         │
+│                                                              │
+│   $ shutdown                                                 │
+│   > Just kidding... keep coding 🚀                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%92%BB;Keep+Learning.+Keep+Building.+Keep+Hacking.+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Code.+Debug.+Learn.+Repeat.;%3E+Stay+curious.;%3E+Keep+building.;%3E+See+you+in+the+next+commit...+%F0%9F%92%BB" />
 
-```text
-██████╗  ██████╗ ██████╗ ████████╗
-██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝
-██████╔╝██║   ██║██████╔╝   ██║
-██╔══██╗██║   ██║██╔══██╗   ██║
-██║  ██║╚██████╔╝██║  ██║   ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
+</div>
 
-        H A N A N N A F I
-```
+---
 
-</p>
+<div align="center">
+
+### `01001000 01000001 01000011 01001011 01000101 01010010`
+
+**💻 PROGRAMMER • 🚀 BUILDER • 🧠 LEARNER**
+
+</div>
